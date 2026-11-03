@@ -4,6 +4,10 @@ This is the open ended DLD project. We were free to make whatever we wanted, so 
 # Idea
 In this project, I aimed to construct an automatic dustbin whose Lid would open when it detects that someone wants to put trash in the bin and would sound an alarm when it detects that the bin is almost full with trash.
 
+# Tools
+- C
+- Arduino IDE
+
 # Components
 -	2 Ultrasonic sensors
 -	Female to Female and Male to Female wires
